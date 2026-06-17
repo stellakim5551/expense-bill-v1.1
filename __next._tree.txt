@@ -1,2 +1,2 @@
-:HL["/expense-bill-v1.1/_next/static/chunks/0385y4zw6~oce.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ltGFx2QEPfoKeKUsaJc0o"}
+:HL["/expense-bill-v1.1/_next/static/chunks/0idtgsjju0~p9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"RQOqgoUh1FR0AsjT389yV"}
